@@ -7,8 +7,6 @@ import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 import com.example.LikeLink.Service.PatientService;
-import com.example.LikeLink.dto.request.EmergencyContactDto;
-import com.example.LikeLink.dto.request.MedicationDto;
 import com.example.LikeLink.dto.request.PatientRequest;
 import com.example.LikeLink.dto.response.PatientResponse;
 
